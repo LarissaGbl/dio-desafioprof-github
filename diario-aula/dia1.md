@@ -27,5 +27,6 @@ Um desses pontos foi as classificações do raciocínio lógico:
 - Dedução: por meio de teorias e leis, deduz uma previsão eexplicação (usada em ciências exatas)
 
 - Abdução: Uma conclusão leva a uma suposição.
+
 ![image](https://user-images.githubusercontent.com/103789688/178127156-ada75489-96fd-4fbe-87c2-34bf0ad5b574.png)
 

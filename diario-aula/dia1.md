@@ -26,4 +26,6 @@ Um desses pontos foi as classificações do raciocínio lógico:
 
 - Dedução: por meio de teorias e leis, deduz uma previsão eexplicação (usada em ciências exatas)
 
-- Abdução: Uma conclusão leva a uma suposição.<img title="" src="https://www.researchgate.net/profile/Carolina-Moreira-18/publication/337223452/figure/fig1/AS:824763496800256@1573650349341/Figura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm" alt="Pilares do Pensamento Computacional. Adaptado de [Shoop et al. 2016]. |  Download Scientific Diagram" data-align="center">
+- Abdução: Uma conclusão leva a uma suposição.
+![image](https://user-images.githubusercontent.com/103789688/178127156-ada75489-96fd-4fbe-87c2-34bf0ad5b574.png)
+
